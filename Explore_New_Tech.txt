@@ -1,0 +1,32 @@
+Explore the things that excite you more
+
+During my college days, I started coding in C++ because thats what everyone around me was following. I am not ready to explore beyond it, so I just stuck to the same path.
+
+But the truth when you explore different technologies, you discover what truly excites you and keeps you curious.
+
+💡Its not about the programming language itself, its about the technology that makes learning interesting.
+
+In my case, I shifted completely from C++ to Java. Slowly, I began solving DSA problems using Java at first it was difficult but when I understand the concept and logic it souds good.
+
+Then the real Game Started....
+
+📌 During my internship at Cognizant, I was assigned Java Fullstack development Stream. This was a big change because in college I had built projects using React and Node.js.
+
+So, what changed? 
+
+When I started experimenting, I realized the importance of understanding how architecture and logic work inside a system. Thats when real learning happens.
+
+🔥The mindset of “always be ready to learn anything” is what keeps you growing and puts you at the top.
+
+✨ Some tips from my journey:
+
+🛠️ Don’t just learn languages — build projects with advanced concepts.
+
+🌐 Once you build projects, learn how to deploy applications.
+
+🎯 Keep exploring until you find what excites you the most.
+
+
+🤝 I will be sharing my experiences, guidance, learning plans, roadmaps, mentorship, and placement journey. If you’re interested, let’s connect and grow together! 🌟
+
+#JavaDevelopment #CodingJourney #CollegeLife #InternshipExperience #TechExploration #DSA #BackendDevelopment #FrontendDevelopment #ReactJS #NodeJS #Angular #CognizantInternship #ProjectBasedLearning #Upskilling #CareerGrowth #LearnByDoing #StudentOpportunities #PlacementPreparation #TechCareers #KeepLearning
