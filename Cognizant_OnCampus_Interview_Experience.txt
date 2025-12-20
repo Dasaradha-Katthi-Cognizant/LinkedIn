@@ -1,0 +1,34 @@
+🌟 My Cognizant OnCampus Interview Experience
+
+I never shared this before, but I felt this is the right time to share.
+
+My journey... started with many rejections from different companies during college placements. 
+Each rejection did not fall me instead, it gave me the boost to prepare harder and crack the next opportunity.
+
+Finally, I received a mail from my college: “You have been shortlisted for the interview.” I had 5 days to prepare.
+
+How I planned?
+
+-Resume played the key role so most questions came directly from it.
+
+-My resume highlighted Core Java and React.js projects.
+
+-The interview started with projects, then moved into OOPs and Collections.
+
+-I explained concepts like Polymorphism, Encapsulation, Inheritance with real‑time examples. I am implemented it as well.
+
+-The interview is around 40–50 minutes covering projects, certifications, languages, OOPs, code implementation, and collections.
+
+
+When I walked out, I felt confiden and within a month, I joined Cognizant as an Intern.
+
+This journey taught me that rejections are not failures, they are redirections. Every “No” prepared me for the “Yes” that mattered.
+
+🤝 I will continue sharing my experiences, learning plans, roadmaps, and placement journey. 
+If you are on a similar path lets connect and grow together! 🚀 
+
+#Cognizant #OnCampusExperience #Java #ReactJS #OOPsConcepts #CoreJava #Collections #PlacementJourney #InternshipExperience #CareerGrowth #Programming #SoftwareEngineering #CampusPlacements #TechJourney
+
+
+
+
