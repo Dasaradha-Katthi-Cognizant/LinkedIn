@@ -1,0 +1,39 @@
+“Rejections are not the end, they are the beginning of something bigger.”
+
+When I was in college, I faced multiple rejections. Looking back, one of the biggest reasons was the projects in my resume. Most resumes I saw including mine at the beginning had basic projects like to‑do lists, landing pages, or simple games. They did not stand out.
+
+But?
+
+The real truth is Projects are one of the top factors that make you stand out in interviews.
+
+It is not just about having a project. It is about how you explain it. If you want to impress, you must build it from scratch, identify flaws, solve problems, and make sure it works end‑to‑end. That is what shows depth.
+
+What Changed Now?
+
+-Stopped picking random projects from the internet.
+
+-Started with a clear problem statement, either unique or an enhancement to an existing real‑time example.
+
+-Began with database design because data plays key role in any application.
+
+-Built full‑stack projects (frontend + backend) and deployed them.
+
+-Kept everything on GitHub and added links in resume as proof.
+
+During interviews, most of the questions came from my resume. When I explained projects with real‑time examples and showed how I implemented concepts like OOPs, collections, and authentication. It was not about perfection, it was about showing understanding and problem‑solving.
+
+Then Now?
+
+We have tools like GitHub Copilot, Cursor, and AI agents. If you have a clear problem statement and flow, you can build projects in hours. Use these tools effectively they are acts as boosting to your skills.
+
+Tips for Students Attending Placements
+-Start with a clear problem statement and solution.
+-Put full‑stack projects in your resume.
+-Deploy your project and share the GitHub link.
+-The more you involve yourself in building, the better you can explain in interviews.
+
+Projects are not just lines in your resume, they are proof of your skills, mindset, and ability to solve problems. They can be the deciding factor in technical interviews.
+
+👉 In my next post, I’ll share about the non‑functional aspects of projects that interviewers look for.
+
+#Projects #PlacementJourney #FullStackDevelopment #Java #ReactJS #Angular #SpringBoot #DatabaseDesign #GitHub #CareerGrowth #InternshipExperience #Programming #SoftwareEngineering #TechJourney
