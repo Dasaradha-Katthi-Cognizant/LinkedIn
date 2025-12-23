@@ -1,0 +1,33 @@
+🌟 Non‑Functional Aspects of Projects
+Sometimes it is not just what you build, but how it behaves.
+
+When I was preparing for placements, I thought projects were only about features building login pages, CRUD operations, or dashboards. But during my internship, I realized interviewers also care deeply about the non‑functional aspects of projects.
+
+In my internship, mentors often reminded me the project is not complete until it is reliable, scalable, and secure. 
+That hit me hard. I had focused only on functionality before, but in interviews, questions came around performance, scalability, and maintainability.
+
+How I Managed?
+
+-Performance: How fast does the application respond? Optimizing queries, caching, and reducing API calls matter.
+-Scalability: Can the project handle more users or data without breaking? Interviewers wants to hear about modular design and microservices.
+-Security: Beyond JWT, think about input validation, encryption, and other security frameworks.
+-Maintainability: Is the code clean, documented, and easy to extend? This shows the best practices using sonarcube.
+-Deployment: Hosting, uptime, monitoring these prove you understand real‑world systems.
+
+What I have learned from my internship from Mentors:
+
+-Always mention how you tested performance (like JUnit, Mockito and load tests).
+-Show that you thought about error handling and logging.
+-Explain how you ensured security beyond just authentication.
+-Highlight how you structured code so others can maintain it.
+
+These tips made me realize: interviewers are not just checking if you can code — they’re checking if you can build systems that last.
+
+Rejections taught me to improve functionality. Internships taught me to value non‑functional aspects. Together, they shaped me into a better developer.
+
+So to every student preparing for interviews:
+👉 Don’t just show what your project does. Show how well it performs, scales, and adapts.
+
+Because in the end, every “No” prepares you for the “Yes” that truly matters.
+
+#Projects #NonFunctionalRequirements #PlacementJourney #FullStackDevelopment #Performance #Scalability #Security #Maintainability #InternshipExperience #CareerGrowth #SoftwareEngineering #TechJourney
